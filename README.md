@@ -1,2 +1,2 @@
 # PrimePairsGenerator
-This program generates prime pairs between two values
+This is a ruby program that generates prime pairs between two values
